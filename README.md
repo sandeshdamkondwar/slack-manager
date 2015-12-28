@@ -45,6 +45,11 @@ For example for Gmail settings: change your settings file by:
     }
 ```
 
+### Install dependencies
+```
+npm install
+```
+
 ### Start your bot.
 
 ```
